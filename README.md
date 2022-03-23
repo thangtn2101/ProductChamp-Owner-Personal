@@ -1,6 +1,6 @@
 
 # Welcome to ProductChamp-Owner-Personal repository
-## This repo store a a presentation about the concept and difference of Product Owner, Product champion and User Personal. You will find in this Repository the following stuff
+## This repo store a presentation about the concept and difference of Product Owner, Product champion and User Personal. You will find in this Repository the following stuff
 
 * A presentation slides in PDF format
 * A document about the content of the presentation
